@@ -29,7 +29,7 @@ up with the same solution, but they had a vastly better set of regex rules than 
 During her period as a mozbot and an rbot, gertrude's regex rules were essentially a direct port of those she
 had in her infobot days.
 
-## Let's see if we can do better than that
+## Let's see if we can do better
 
 The sixth generation of gertrude, based on the ruby IRC library cinch, has a ground up rewrite of the infobot
 functionality. gertrude started with a database of just over 19,000 factoids, and probably 10% of that is
